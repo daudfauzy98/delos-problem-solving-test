@@ -1,1 +1,1 @@
-# delos-problem-solving-test
+# Delos Problem Solving Test
